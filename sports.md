@@ -2,4 +2,4 @@
 
 The following photos are action-packed snapshots of various athletes through Jenna Nguyen's lens.
 
-![Photo 1](https://user-images.githubusercontent.com/89496924/160219881-aacccd9c-48fb-428e-bf55-5b6bc861af7a.jpg =100x20)
+![Photo 1](https://user-images.githubusercontent.com/89496924/160219881-aacccd9c-48fb-428e-bf55-5b6bc861af7a.jpg)
