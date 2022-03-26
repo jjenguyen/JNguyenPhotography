@@ -1,6 +1,6 @@
 # _People_
 
-The following photos display the important people in JNguyenPhotography's life:
+The following photos display some important people in JNguyenPhotography's life:
 
 <img src="https://user-images.githubusercontent.com/89496924/160220620-3370e605-5629-4d3d-a808-c7b144501c4c.jpg" width="350" height="500" />
 <img src="https://user-images.githubusercontent.com/89496924/160220650-e7b63ddd-07a6-4f19-b339-b4b838bf7ee0.jpg" width="345" height="230" />
