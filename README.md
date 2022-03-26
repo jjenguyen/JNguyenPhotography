@@ -10,4 +10,5 @@ View JNguyenPhotography's work using the following links:
 * [Travel](./travel.md)
 
 For more information:
+* [About Me](./aboutme.md)
 * [Contact](./contact.md)
