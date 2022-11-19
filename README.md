@@ -8,6 +8,7 @@ View JNguyenPhotography's work using the following links:
 * [Animals](./animals.md)
 * [People](./people.md)
 * [Travel](./travel.md)
+* [Film Photography](./film.md)
 
 Additional Information:
 * [About Me](./aboutme.md)
