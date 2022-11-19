@@ -1,6 +1,6 @@
 # _Film Photography_
 
-The following photos are film photos through JNguyenPhotography's lens:
+The following are film photos shot through JNguyenPhotography's lens:
 
 (I hope you can feel the nostalgia!)
 
