@@ -3,12 +3,13 @@
 The following photos are film photos through JNguyenPhotography's lens:
 (I hope you can feel the nostalgia!)
 
-![000250600033](https://user-images.githubusercontent.com/89496924/202835751-5f2da3e9-b868-4868-b5fe-2570a3c6099d.jpg)
-
+<img src="https://user-images.githubusercontent.com/89496924/202835751-5f2da3e9-b868-4868-b5fe-2570a3c6099d.jpg" width="350" height="500" />
+<img src="https://user-images.githubusercontent.com/89496924/202835821-e1f204a5-5a8b-462d-9d1d-8975b060ae7f.jpg" width="350" height="500" />
+<img src="https://user-images.githubusercontent.com/89496924/202835835-f15da94f-34eb-45af-89b3-d18e04134703.jpg" width="350" height="500" />
+<img src="https://user-images.githubusercontent.com/89496924/202835843-13636bbc-5bd1-469c-95ef-47509383a2b5.jpg" width="350" height="500" />
 <img src="" width="350" height="500" />
-<img src="https://user-images.githubusercontent.com/89496924/160220061-9dc834f6-3e9e-4bf2-8afa-d623c6254634.jpg" width="350" height="500" />
-<img src="https://user-images.githubusercontent.com/89496924/160220109-b1dff738-abd3-40f7-8d88-d8741ba1a6c0.jpg" width="350" height="500" />
-<img src="https://user-images.githubusercontent.com/89496924/160220116-11927dd5-882c-418c-b1bb-25ad16ec1030.jpg" width="345" height="230" />
-<img src="https://user-images.githubusercontent.com/89496924/160220211-37f18329-a35e-4c9c-91a1-6b9add058985.jpg" width="350" height="500" />
 
 [Return to Home](./README.md)
+
+landscape
+https://user-images.githubusercontent.com/89496924/202835813-92353c7a-a88a-45be-9398-9596e4d28550.jpg
